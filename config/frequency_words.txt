@@ -1,65 +1,5 @@
-胖东来
-于东来
-
 DeepSeek
 梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
 
 谷歌
 google
@@ -73,41 +13,23 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
 人工智能
 
-自动驾驶
 
-机器人
+# 核心模型与产品 (Core Models & Products)
+ChatGPT, GPT-4, GPT-5, Sora, DALL-E, Claude, Gemini, Llama, Grok, Midjourney, Stable Diffusion, Copilot, 文心一言, 通义千问, 豆包, 讯飞星火, 智谱GLM, 混元, 商量
 
-国产
-中国
+# 关键技术概念 (Key Technical Concepts)
+LLM, Large Language Model, 大语言模型, Multimodal, 多模态, Transformer, RAG, Agent, 智能体, AI Agent, Fine-tuning, 微调, MoE, Mixture of Experts, 推理, Inference, 对齐, Alignment, 幻觉, Hallucination, 提示工程, Prompt Engineering
 
-美国
-日本
-韩国
+# 应用与场景 (Applications & Scenarios)
+AIGC, 生成式AI, Generative AI, AI搜索, AI Search, AI助手, AI Assistant, 代码编程, Coding, 内容创作, 智能客服, 数字人, 自动驾驶, Autonomous Driving, 人工智能生成, 人机协作
 
-芯片
-光刻机
+# 行业与生态 (Industry & Ecosystem)
+AI芯片, AI Chip, NVIDIA, H100, B100, 算力, Compute, 开源, Open Source, 闭源, Closed Source, API, 定价, Pricing, 成本, 削减成本, 市场竞争, 融资, 估值, 发布会, 内测, 公测
 
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+# 治理与趋势 (Governance & Trends)
+AI安全, AI Safety, 监管, Regulation, 合规, 人工智能法案, 风险, 伦理, 乔布斯法则, 性能基准, Benchmark, AGI, 通用人工智能, 下一代, 颠覆, 革新, 爆发, 寒冬
