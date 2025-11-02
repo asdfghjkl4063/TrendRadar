@@ -1,35 +1,123 @@
-DeepSeek
-梁文锋
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-
 ai
 !gai
 人工智能
 
+OpenAI
+ChatGPT
+GPT-3
+GPT-4
+GPT-4o
+GPT-5
+Sora
+DALL-E 2
+DALL-E 3
 
-# 核心模型与产品 (Core Models & Products)
-ChatGPT, GPT-4, GPT-5, Sora, DALL-E, Claude, Gemini, Llama, Grok, Midjourney, Stable Diffusion, Copilot, 文心一言, 通义千问, 豆包, 讯飞星火, 智谱GLM, 混元, 商量
+Anthropic
+Claude
+Claude 2
+Claude 3 
+Claude 3.5 Sonnet
 
-# 关键技术概念 (Key Technical Concepts)
-LLM, Large Language Model, 大语言模型, Multimodal, 多模态, Transformer, RAG, Agent, 智能体, AI Agent, Fine-tuning, 微调, MoE, Mixture of Experts, 推理, Inference, 对齐, Alignment, 幻觉, Hallucination, 提示工程, Prompt Engineering
+Google
+Gemini
+Bard
+Gemini Pro
+Gemini Ultra
+PaLM 2
+Imagen
 
-# 应用与场景 (Applications & Scenarios)
-AIGC, 生成式AI, Generative AI, AI搜索, AI Search, AI助手, AI Assistant, 代码编程, Coding, 内容创作, 智能客服, 数字人, 自动驾驶, Autonomous Driving, 人工智能生成, 人机协作
+Meta
+Llama
+Llama 2
+Llama 3
+Code Llama
 
-# 行业与生态 (Industry & Ecosystem)
-AI芯片, AI Chip, NVIDIA, H100, B100, 算力, Compute, 开源, Open Source, 闭源, Closed Source, API, 定价, Pricing, 成本, 削减成本, 市场竞争, 融资, 估值, 发布会, 内测, 公测
+Microsoft
+Copilot
+Orca
+Phi
 
-# 治理与趋势 (Governance & Trends)
-AI安全, AI Safety, 监管, Regulation, 合规, 人工智能法案, 风险, 伦理, 乔布斯法则, 性能基准, Benchmark, AGI, 通用人工智能, 下一代, 颠覆, 革新, 爆发, 寒冬
+xAI
+Grok
+Grok-1
+
+Midjourney
+Midjourney V6
+
+Stability AI
+Stable Diffusion
+Stable Diffusion 3
+Stable Diffusion XL
+
+DeepSeek
+DeepSeek Chat
+DeepSeek Coder
+DeepSeek-V2
+DeepSeek-V3
+DeepSeek-R1
+DeepSeek-Coder
+
+蚂蚁集团
+百灵大模型
+Ling-1T
+Ring-1T
+
+百度
+文心一言
+ERNIE 3.0
+ERNIE 4.0
+ERNIE Bot
+
+阿里巴巴
+通义千问
+Qwen
+Qwen2
+Qwen-VL
+Qwen-Audio
+
+字节跳动
+豆包
+Skylark
+Doubao
+
+科大讯飞
+讯飞星火
+iFlytek Spark
+Spark Desk
+
+清华大学
+智谱清言
+ChatGLM
+GLM-4
+GLM-130B
+
+零一万物
+Yi
+Yi-34B
+Yi-VL
+
+商汤科技
+商量
+SenseNova
+
+LLM
+Large Language Model
+大语言模型
+
+Multimodal
+多模态
+
+Agent
+智能体
+AI Agent
+
+
+AIGC
+生成式AI
+Generative AI
+
+AI搜索
+AI Search
+
+
+
